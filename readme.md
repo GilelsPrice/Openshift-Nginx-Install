@@ -1,8 +1,7 @@
-<strong>ÕâÊÇ±ã½İµÄopenshift Nginx°²×°½Å±¾</strong></br>
-	Ê¹ÓÃ·½·¨£º</br>
-	1.´´½¨Ó¦ÓÃ³ÌĞò£¬Ñ¡Ôñdo-it-yourself</br>
-	2.Ô´ÂëÌîĞ´"https://github.com/GilelsPrice/Openshift-Nginx-Install.git"</br>
-	3.ÓÃsshÁ¬½Óºóchmod +x install.sh&&sh install.sh&&sh</br>
-	4.´ó¹¦¸æ³É!×øµÈÄúÅäÖÃNginx</br>
-	×¢Òâ:</br>
-	NginxµÄ¸ùÄ¿Â¼ÔÚ"app-root/data/nginx1.2"ÏÂ</br>
+<strong>è¿™æ˜¯ä¾¿æ·çš„openshift Nginxå®‰è£…è„šæœ¬</strong></br>
+	ä½¿ç”¨æ–¹æ³•ï¼š</br>
+	1.åˆ›å»ºåº”ç”¨ç¨‹åºï¼Œé€‰æ‹©do-it-yourself</br>
+	2.ç”¨sshè¿æ¥ågit clone https://github.com/GilelsPrice/Openshift-Nginx-Install.git&&cd app-root/repo&&chmod +x install.sh&&sh install.sh&&sh</br>
+	3.å¤§åŠŸå‘Šæˆ!åç­‰æ‚¨é…ç½®Nginx</br>
+	æ³¨æ„:</br>
+	Nginxçš„æ ¹ç›®å½•åœ¨"app-root/data/nginx1.2"ä¸‹</br>
